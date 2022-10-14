@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto sobre Git/Github da DIO
-Repositório criado para o Desafio de Projeto Git/Github
+Repositório criado para o Desafio de Projeto Git/Github - Bootcamp Unimed - BH
 
 Neste repositório ficarão os links úteis e anotações das aulas de:
 
